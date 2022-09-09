@@ -4,16 +4,16 @@
 
 ### :pushpin: My skills in 2022:
 
-- HTML
-- CSS
-- JavaScript
-- Git
-- NodeJS
-- Bootstrap
-- Sass
-- ReactJS
-- SQL
-- MongoDB
+- :snowflake: HTML
+- :crystal_ball: CSS
+- :fire: JavaScript
+- :zap: Git
+- :package: NodeJS
+- :bomb: Bootstrap
+- :cherry_blossom: Sass
+- :bulb: ReactJS
+- :crescent_moon: SQL
+- :seedling: MongoDB
 
 ### :telephone: Contact Me:
 
