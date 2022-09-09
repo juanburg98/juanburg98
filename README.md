@@ -1,5 +1,8 @@
 ### <h2>Hi, I'm Juan 👋</h2>
 
+<h3>I'm currently ...</h3>
+
+- :mortar_board: I study in CoderHouse
 - :calendar: Using daily:  `.html` `.css` `.js` `.json` `.scss` `.npm` `.git`
 
 ### :pushpin: My skills in 2022:
