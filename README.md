@@ -1,6 +1,6 @@
 ### <h2>Hi, I'm Juan 👋</h2>
 
-- :calendar: Using daily:  `.html` `.css` `.js` `.json` `.scss` `.git`
+- :calendar: Using daily:  `.html` `.css` `.js` `.json` `.scss` `.npm` `.git`
 
 ### :pushpin: My skills in 2022:
 
