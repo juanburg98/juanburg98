@@ -15,7 +15,7 @@
 - :bomb: Bootstrap
 - :cherry_blossom: Sass
 - :bulb: ReactJS
-- :leaves: TailwindCSS
+- :leaves: Tailwind CSS
 - :crescent_moon: SQL
 - :seedling: MongoDB
 
