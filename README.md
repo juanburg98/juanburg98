@@ -3,7 +3,7 @@
 <h3>I'm currently ...</h3>
 
 - :mortar_board: Studying at Coderhouse
-- :calendar: Using daily:  `.html` `.css` `.js` `.json` `.scss` `.npm` `.git`
+- :calendar: Using daily:  `.html` `.css` `.js` `.json` `.scss` `.npm` `.git` `.jsx`
 
 ### :pushpin: My skills in 2022:
 
