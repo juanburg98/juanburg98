@@ -3,10 +3,12 @@
 </h1>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/juanburg" target="_blank">
+  <a href="https://www.linkedin.com/in/juanburg">
   <img src="https://img.shields.io/badge/LinkedIn-Juan_Burgueño-007EC6?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010">
   </a>
+  <a href="https://twitter.com/juanburg98">
   <img src="https://img.shields.io/badge/Twitter-@juanburg98-007EC6?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010">
+  </a>
   <img src="https://img.shields.io/github/watchers/juanburg98/juanburg98?color=%23007EC6&logo=github&logoColor=white&labelColor=101010&style=for-the-badge">
 </div>
 
