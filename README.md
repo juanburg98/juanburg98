@@ -16,6 +16,13 @@
 
 ### :pushpin: My skills:
 
+<img src="https://img.shields.io/badge/HTML-F03A17?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010">
+<img src="https://img.shields.io/badge/CSS-007EC6?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010">
+<img src="https://img.shields.io/badge/ReactJS-14A1F0?style=for-the-badge&logo=react&logoColor=white&labelColor=101010">
+<img src="https://img.shields.io/badge/NextJS-000000?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=101010">
+<img src="https://img.shields.io/badge/Astro-F25903?style=for-the-badge&logo=astro&logoColor=white&labelColor=101010">
+
 - :snowflake: HTML
 - :crystal_ball: CSS
 - :fire: JavaScript
