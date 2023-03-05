@@ -1,4 +1,4 @@
-### <h2>Hi, I'm Juan 👋</h2>
+<h1>Hi, I'm Juan 👋</h1>
 
 <h3>I'm currently ...</h3>
 
