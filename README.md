@@ -27,7 +27,3 @@
 - :package: NodeJS
 - Express
 - :seedling: MongoDB
-
-#### Contact Me:
-
-- [LinkedIn](https://www.linkedin.com/in/juan-burgueño)
