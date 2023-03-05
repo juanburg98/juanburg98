@@ -1,26 +1,23 @@
 <h1 align="center">
-  Hi, I'm Juan 👋
+  Hi, I'm Juan
 </h1>
 
-<h3>I'm currently ...</h3>
+`.html` `.css` `.js` `.json` `.json` `.astro` `.git` `.jsx`
 
-- :mortar_board: Studying at Coderhouse
-- :calendar: Using daily:  `.html` `.css` `.js` `.json` `.scss` `.npm` `.git` `.jsx`
-
-### :pushpin: My skills in 2022:
+### :pushpin: My skills:
 
 - :snowflake: HTML
 - :crystal_ball: CSS
 - :fire: JavaScript
 - :zap: Git
-- :package: NodeJS
-- :bomb: Bootstrap
-- :cherry_blossom: Sass
 - :bulb: ReactJS
+- Astro
 - :leaves: Tailwind CSS
-- :crescent_moon: SQL
+- Next.js 13
+- :package: NodeJS
+- Express
 - :seedling: MongoDB
 
-### :telephone: Contact Me:
+#### Contact Me:
 
 - [LinkedIn](https://www.linkedin.com/in/juan-burgueño)
