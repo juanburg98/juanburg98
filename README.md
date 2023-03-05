@@ -2,6 +2,10 @@
   Hi, I'm Juan
 </h1>
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=juanburg98&style=for-the-badge&color=blue">
+</div>
+
 `.html` `.css` `.js` `.json` `.json` `.astro` `.git` `.jsx`
 
 ### :pushpin: My skills:
