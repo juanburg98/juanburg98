@@ -3,7 +3,9 @@
 </h1>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=juanburg98&style=for-the-badge&color=blue">
+  <img src="https://img.shields.io/badge/LinkedIn-Juan_Burgueño-007EC6?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010">
+  <img src="https://img.shields.io/badge/Twitter-@juanburg98-007EC6?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010">
+  <img src="https://img.shields.io/github/watchers/juanburg98/juanburg98?color=%23007EC6&logo=github&logoColor=white&labelColor=101010&style=for-the-badge">
 </div>
 
 `.html` `.css` `.js` `.json` `.json` `.astro` `.git` `.jsx`
