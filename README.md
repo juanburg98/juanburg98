@@ -1,12 +1,12 @@
-<h1 align="center">
+<h1>
 Hi, I'm Juan
 </h1>
 
-<div align="center">
+<div>
 <img src="https://img.shields.io/github/watchers/juanburg98/juanburg98?color=%23000000&logo=github&logoColor=white&labelColor=101010&style=for-the-badge">
 </div>
 
-<div align="center">
+<div>
 <h2>About me</h2>
 <p>
 I'm Front-End Developer,
