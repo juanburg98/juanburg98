@@ -1,19 +1,21 @@
 <h1 align="center">
-  Hi, I'm Juan
+Hi, I'm Juan
 </h1>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/juanburg">
-  <img src="https://img.shields.io/badge/LinkedIn-Juan_Burgueño-000000?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010">
-  </a>
-  <a href="https://twitter.com/juanburg98">
-  <img src="https://img.shields.io/badge/Twitter-@juanburg98-000000?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010">
-  </a>
-  <img src="https://img.shields.io/github/watchers/juanburg98/juanburg98?color=%23000000&logo=github&logoColor=white&labelColor=101010&style=for-the-badge">
+<img src="https://img.shields.io/github/watchers/juanburg98/juanburg98?color=%23000000&logo=github&logoColor=white&labelColor=101010&style=for-the-badge">
+</div>
+
+<div align="center">
+<h2>About me</h2>
+<p>
+I'm Front-End Developer,
+I focus on design and user experience seeking a usable, inclusive and
+accessible result for all people, along with clean, scalable and optimized code.
+</p>
 </div>
 
 <h2>My skills</h2>
-
 <div>
 <img src="https://img.shields.io/badge/HTML-F03A17?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010">
 <img src="https://img.shields.io/badge/CSS-007EC6?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010">
@@ -29,4 +31,14 @@
 <img src="https://img.shields.io/badge/NodeJS-4B7D4F?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=101010">
 <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white&labelColor=101010">
 <img src="https://img.shields.io/badge/MongoDB-023430?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010">
+</div>
+
+<h2>Contact</h2>
+<div>
+<a href="https://www.linkedin.com/in/juanburg">
+<img src="https://img.shields.io/badge/LinkedIn-Juan_Burgueño-000000?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010"></br>
+</a>
+<a href="https://twitter.com/juanburg98">
+<img src="https://img.shields.io/badge/Twitter-@juanburg98-000000?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010"></br>
+</a>
 </div>
